@@ -9,6 +9,12 @@
     <td align='center' width="60">
         <a href="https://www.linkedin.com/in/shekhar-rai-563b79176/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60"></a>
     </td>
+    <td align='center' width="60">
+        <a href="https://stackoverflow.com/users/5788486/shekhar-rai?tab=profile/"><img src="https://image.flaticon.com/icons/png/512/2111/2111628.png" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.facebook.com/shekkar.raee.3/"><img src="https://image.flaticon.com/icons/png/512/1409/1409943.png" width="60"></a>
+    </td>
 </tr>
 </table>
 
