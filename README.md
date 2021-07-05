@@ -7,14 +7,19 @@
 [![Shekhar Rai's github activity graph](https://activity-graph.herokuapp.com/graph?username=shekharrai&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ____
-<div style="text-align:center">
-  
-  [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-  [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-  [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-</div>
+<table width="100" align='center'>
+<tr>
+    <td align='center' width="60">
+        <a href="https://twitter.com/ShekkarRai"><img src="https://image.flaticon.com/icons/svg/2111/2111703.svg" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://shekharrai.github.io/"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.linkedin.com/in/shekhar-rai-563b79176/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60"></a>
+    </td>
+</tr>
+</table>
 
-[website]: https://shekharrai.github.io/
-[twitter]: https://twitter.com/ShekkarRai
-[linkedin]: https://www.linkedin.com/in/shekhar-rai-563b79176/
+____
