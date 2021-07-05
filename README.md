@@ -1,7 +1,5 @@
 <div align='center'>
-
-  # Hi There! 👋:
-___
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foo290&theme=dark)](https://git.io/streak-stats)
 
 </div>
