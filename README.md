@@ -1,6 +1,8 @@
-<h3 align='center'>
-      Hi
-</h3>
+<p align='center'>
+      <a href="https://github.com/shekharrai">
+            <img alt="Hello World" src="https://image.flaticon.com/icons/png/512/4666/4666748.png" width='70px' height='70px'>
+      </a>
+</p>
 <p align='center'>
       <a href="https://github.com/shekharrai">
             <img alt="VIEWS" src="https://komarev.com/ghpvc/?username=shekharrai&label=PROFILE+VIEWS&color=red&style=flat-square">
