@@ -1,3 +1,11 @@
+<h3 align='center'>
+      Hi
+</h3>
+<p align='center'>
+      <a href="https://github.com/shekharrai">
+            <img alt="VIEWS" src="https://komarev.com/ghpvc/?username=shekharrai&label=PROFILE+VIEWS&color=red&style=flat-square">
+      </a>
+</p>
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
