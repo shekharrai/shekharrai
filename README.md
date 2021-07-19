@@ -28,7 +28,7 @@
 </tr>
 </table>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shekharrai&show_icons=true&locale=en&layout=compact" alt="shekharrai" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shekharrai&show_icons=true&locale=en&layout=compact&theme=dark" alt="shekharrai" /></p>
 
 
 <div align='center'>
