@@ -1,6 +1,6 @@
 <p align='center'>
       <a href="https://github.com/shekharrai">
-            <img alt="Hello World" src="https://image.flaticon.com/icons/png/512/4666/4666748.png" width='70px' height='70px'>
+            <img alt="Hello World" src="https://www.seekpng.com/png/detail/20-208626_hi-chat-bubble-hi-icon-png.png" width='70px' height='70px'>
       </a>
 </p>
 <p align='center'>
