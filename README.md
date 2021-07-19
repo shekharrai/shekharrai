@@ -1,8 +1,6 @@
-<p align='center'>
-      <a href="https://github.com/shekharrai">
-            <img alt="Hello World" src="https://www.seekpng.com/png/detail/20-208626_hi-chat-bubble-hi-icon-png.png" width='70px' height='70px'>
-      </a>
-</p>
+<h1 align='center' font-size='60'>
+      👋
+</h1>
 <p align='center'>
       <a href="https://github.com/shekharrai">
             <img alt="VIEWS" src="https://komarev.com/ghpvc/?username=shekharrai&label=PROFILE+VIEWS&color=red&style=flat-square">
